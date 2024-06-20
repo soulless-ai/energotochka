@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'AKONY';
+    src: url('AKONY.woff2') format('woff2'),
+        url('AKONY.woff') format('woff'),
+        url('AKONY.ttf') format('truetype');
+}

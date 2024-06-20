@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Age';
+    src: url('Age-Normal.eot');
+    src: local('Brutal Type Extra Light'), local('Age-Normal'),
+        url('Age-Normal.eot?#iefix') format('embedded-opentype'),
+        url('Age-Normal.woff2') format('woff2'),
+        url('Age-Normal.woff') format('woff'),
+        url('Age-Normal.ttf') format('truetype');
+}
